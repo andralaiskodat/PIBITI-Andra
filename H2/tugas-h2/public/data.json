@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Pantai Kuta",
+        "location": "Bali",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "07.00 - 18.00",
+        "harga": "Gratis",
+        "deskripsi": "Pantai Kuta terkenal dengan pasir putih...",
+        "image": "https://images.pexels.com/photos/5345067/pexels-photo-5345067.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/28492149/pexels-photo-28492149.jpeg",
+            "https://images.pexels.com/photos/13583582/pexels-photo-13583582.jpeg"
+        ]
+    },
+    {
+        "name": "Gunung Bromo",
+        "location": "Jawa Timur",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "24 Jam",
+        "harga": "Rp30.000",
+        "deskripsi": "Gunung Bromo adalah gunung berapi aktif...",
+        "image": "https://images.pexels.com/photos/2609952/pexels-photo-2609952.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/3617337/pexels-photo-3617337.jpeg",
+            "https://images.pexels.com/photos/1076758/pexels-photo-1076758.jpeg"
+        ]
+    },
+    {
+        "name": "Candi Borobudur",
+        "location": "Jawa Tengah",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "06.00 - 17.00",
+        "harga": "Rp50.000",
+        "deskripsi": "Candi Borobudur adalah candi Buddha terbesar...",
+        "image": "https://images.pexels.com/photos/4090091/pexels-photo-4090091.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/9754748/pexels-photo-9754748.jpeg",
+            "https://images.pexels.com/photos/6476719/pexels-photo-6476719.jpeg"
+        ]
+    },
+    {
+        "name": "Danau Toba",
+        "location": "Sumatera",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "24 Jam",
+        "harga": "Gratis",
+        "deskripsi": "Danau Toba adalah danau vulkanik terbesar di dunia...",
+        "image": "https://images.pexels.com/photos/210189/pexels-photo-210189.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210190/pexels-photo-210190.jpeg",
+            "https://images.pexels.com/photos/210191/pexels-photo-210191.jpeg"
+        ]
+    },
+    {
+        "name": "Pulau Komodo",
+        "location": "Nusa Tenggara Timur",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "08.00 - 17.00",
+        "harga": "Rp150.000",
+        "deskripsi": "Pulau Komodo terkenal dengan komodo, kadal terbesar di dunia...",
+        "image": "https://images.pexels.com/photos/27221044/pexels-photo-27221044.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210193/pexels-photo-210193.jpeg",
+            "https://images.pexels.com/photos/210194/pexels-photo-210194.jpeg"
+        ]
+    },
+    {
+        "name": "Pantai Pink",
+        "location": "Nusa Tenggara Barat",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "07.00 - 18.00",
+        "harga": "Rp20.000",
+        "deskripsi": "Pantai Pink terkenal dengan pasirnya yang berwarna pink...",
+        "image": "https://images.pexels.com/photos/210195/pexels-photo-210195.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210196/pexels-photo-210196.jpeg",
+            "https://images.pexels.com/photos/210197/pexels-photo-210197.jpeg"
+        ]
+    },
+    {
+        "name": "Taman Nasional Ujung Kulon",
+        "location": "Banten",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "08.00 - 16.00",
+        "harga": "Rp25.000",
+        "deskripsi": "Taman Nasional Ujung Kulon adalah rumah bagi badak Jawa...",
+        "image": "https://images.pexels.com/photos/210198/pexels-photo-210198.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210199/pexels-photo-210199.jpeg",
+            "https://images.pexels.com/photos/210200/pexels-photo-210200.jpeg"
+        ]
+    },
+    {
+        "name": "Pantai Parangtritis",
+        "location": "Yogyakarta",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "24 Jam",
+        "harga": "Gratis",
+        "deskripsi": "Pantai Parangtritis terkenal dengan ombaknya yang besar...",
+        "image": "https://images.pexels.com/photos/210201/pexels-photo-210201.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210202/pexels-photo-210202.jpeg",
+            "https://images.pexels.com/photos/210203/pexels-photo-210203.jpeg"
+        ]
+    },
+    {
+        "name": "Raja Ampat",
+        "location": "Papua Barat",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "09.00 - 17.00",
+        "harga": "Rp300.000",
+        "deskripsi": "Raja Ampat adalah surga bagi penyelam dan pecinta alam bawah laut...",
+        "image": "https://images.pexels.com/photos/18080802/pexels-photo-18080802.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/1076758/pexels-photo-1076758.jpeg",
+            "https://images.pexels.com/photos/1076758/pexels-photo-1076758.jpeg"
+        ]
+    }
+]
