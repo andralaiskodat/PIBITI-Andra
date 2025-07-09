@@ -1,0 +1,282 @@
+[
+    {
+        "name": "Pantai Kuta",
+        "location": "Bali",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "07.00 - 18.00",
+        "harga": "Gratis",
+        "deskripsi": "Pantai Kuta adalah pantai terkenal di Bali, Indonesia, yang dikenal dengan pasir putihnya, ombak yang cocok untuk berselancar, dan pemandangan matahari terbenam yang indah. Dulu merupakan desa nelayan, kini Pantai Kuta telah berkembang menjadi kawasan wisata yang ramai dengan berbagai fasilitas dan aktivitas. ",
+        "image": "https://images.pexels.com/photos/5345067/pexels-photo-5345067.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/28492149/pexels-photo-28492149.jpeg",
+            "https://images.pexels.com/photos/13583582/pexels-photo-13583582.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Gunung Bromo",
+        "location": "Jawa Timur",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "24 Jam",
+        "harga": "Rp30.000",
+        "deskripsi": "Gunung Bromo adalah gunung berapi aktif yang terletak di Jawa Timur, Indonesia, dan merupakan bagian dari Taman Nasional Bromo Tengger Semeru. Gunung ini terkenal dengan pemandangan matahari terbit yang indah dari Puncak Penanjakan dan kawahnya yang berasap. Bromo juga dikelilingi oleh lautan pasir yang luas dan merupakan rumah bagi Suku Tengger, yang memiliki upacara adat Kasada yang unik. ",
+        "image": "https://images.pexels.com/photos/2609952/pexels-photo-2609952.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/3617337/pexels-photo-3617337.jpeg",
+            "https://images.pexels.com/photos/1076758/pexels-photo-1076758.jpeg"
+        ],
+        "trending": false
+    },
+    {
+        "name": "Candi Borobudur",
+        "location": "Jawa Tengah",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "06.00 - 17.00",
+        "harga": "Rp50.000",
+        "deskripsi": "Candi Borobudur adalah candi Buddha terbesar di dunia yang terletak di Magelang, Jawa Tengah, Indonesia. Dibangun pada abad ke-8 dan ke-9, candi ini merupakan salah satu situs warisan dunia UNESCO. Borobudur terkenal dengan arsitekturnya yang megah, relief yang rumit, dan stupa-stupa yang indah. Candi ini menjadi tujuan wisata utama bagi pengunjung yang ingin belajar tentang sejarah dan budaya Buddha.",
+        "image": "https://images.pexels.com/photos/4090091/pexels-photo-4090091.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/9754748/pexels-photo-9754748.jpeg",
+            "https://images.pexels.com/photos/6476719/pexels-photo-6476719.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Danau Toba",
+        "location": "Sumatera",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "24 Jam",
+        "harga": "Gratis",
+        "deskripsi": "Danau Toba adalah danau vulkanik terbesar di dunia yang terletak di Sumatera Utara, Indonesia. Danau ini terbentuk akibat letusan supervulkanik sekitar 74.000 tahun yang lalu dan memiliki pulau Samosir di tengahnya. Danau Toba terkenal dengan pemandangan alamnya yang indah, budaya Batak yang kaya, dan aktivitas wisata seperti berlayar, berenang, dan menjelajahi desa-desa tradisional.",
+        "image": "https://images.pexels.com/photos/210189/pexels-photo-210189.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210190/pexels-photo-210190.jpeg",
+            "https://images.pexels.com/photos/210191/pexels-photo-210191.jpeg"
+        ],
+        "trending": false
+    },
+    {
+        "name": "Pulau Komodo",
+        "location": "Nusa Tenggara Timur",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "08.00 - 17.00",
+        "harga": "Rp150.000",
+        "deskripsi": "Pulau Komodo terkenal dengan komodo, kadal terbesar di dunia, yang hanya ditemukan di Indonesia. Pulau ini merupakan bagian dari Taman Nasional Komodo, yang juga meliputi pulau-pulau sekitarnya. Selain komodo, pulau ini juga memiliki keanekaragaman hayati yang kaya, termasuk terumbu karang yang indah dan pantai-pantai yang menakjubkan. Pulau Komodo menjadi tujuan wisata populer bagi para petualang dan pecinta alam.",
+        "image": "https://images.pexels.com/photos/27221044/pexels-photo-27221044.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210193/pexels-photo-210193.jpeg",
+            "https://images.pexels.com/photos/210194/pexels-photo-210194.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Pantai Pink",
+        "location": "Nusa Tenggara Barat",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "07.00 - 18.00",
+        "harga": "Rp20.000",
+        "deskripsi": "Pantai Pink terkenal dengan pasirnya yang berwarna pink, yang dihasilkan dari pecahan karang merah dan pasir putih. Terletak di Pulau Komodo, pantai ini menawarkan pemandangan yang unik dan indah. Pengunjung dapat berenang, snorkeling, atau hanya bersantai di tepi pantai sambil menikmati keindahan alam sekitar.",
+        "image": "https://images.pexels.com/photos/210195/pexels-photo-210195.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210196/pexels-photo-210196.jpeg",
+            "https://images.pexels.com/photos/210197/pexels-photo-210197.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Taman Nasional Ujung Kulon",
+        "location": "Banten",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "08.00 - 16.00",
+        "harga": "Rp25.000",
+        "deskripsi": "Taman Nasional Ujung Kulon adalah rumah bagi badak Jawa, salah satu spesies langka yang terancam punah. Taman nasional ini terletak di ujung barat Pulau Jawa dan memiliki keanekaragaman hayati yang kaya, termasuk hutan hujan tropis, pantai, dan terumbu karang. Pengunjung dapat melakukan trekking, berlayar, atau snorkeling untuk menikmati keindahan alamnya.",
+        "image": "https://images.pexels.com/photos/210198/pexels-photo-210198.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210199/pexels-photo-210199.jpeg",
+            "https://images.pexels.com/photos/210200/pexels-photo-210200.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Pantai Parangtritis",
+        "location": "Yogyakarta",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "24 Jam",
+        "harga": "Gratis",
+        "deskripsi": "Pantai Parangtritis terkenal dengan ombaknya yang besar dan pemandangan sunset yang indah. Terletak di Yogyakarta, pantai ini juga memiliki mitos dan legenda yang kaya, termasuk kisah Ratu Kidul. Pengunjung dapat menikmati aktivitas seperti berselancar, berkuda di tepi pantai, atau hanya bersantai sambil menikmati angin laut.",
+        "image": "https://images.pexels.com/photos/210201/pexels-photo-210201.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210202/pexels-photo-210202.jpeg",
+            "https://images.pexels.com/photos/210203/pexels-photo-210203.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Raja Ampat",
+        "location": "Papua Barat",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "09.00 - 17.00",
+        "harga": "Rp300.000",
+        "deskripsi": "Raja Ampat adalah surga bagi penyelam dan pecinta alam bawah laut. Terletak di Papua Barat, Raja Ampat memiliki keanekaragaman hayati laut yang luar biasa, termasuk terumbu karang, ikan tropis, dan mamalia laut. Pulau-pulau kecil yang indah dan pantai-pantai yang sepi membuat Raja Ampat menjadi tujuan wisata yang sempurna untuk petualangan dan relaksasi.",
+        "image": "https://images.pexels.com/photos/18080802/pexels-photo-18080802.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/1076758/pexels-photo-1076758.jpeg",
+            "https://images.pexels.com/photos/1076758/pexels-photo-1076758.jpeg"
+        ],
+        "trending": false
+    },
+    {
+        "name": "Taman Safari Indonesia",
+        "location": "Bogor",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "09.00 - 17.00",
+        "harga": "Rp150.000",
+        "deskripsi": "Taman Safari Indonesia adalah taman safari terbesar di Indonesia, terletak di Bogor, Jawa Barat. Taman ini menawarkan pengalaman melihat berbagai satwa liar dari dekat dalam lingkungan yang menyerupai habitat aslinya. Pengunjung dapat berkeliling dengan mobil pribadi atau menggunakan kendaraan safari yang disediakan. Taman Safari juga memiliki wahana permainan, pertunjukan satwa, dan area konservasi.",
+        "image": "https://images.pexels.com/photos/7723954/pexels-photo-7723954.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/7710557/pexels-photo-7710557.jpeg",
+            "https://images.pexels.com/photos/210206/pexels-photo-210206.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Kawah Ijen",
+        "location": "Jawa Timur",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "24 Jam",
+        "harga": "Rp20.000",
+        "deskripsi": "Kawah Ijen terkenal dengan api biru dan danau asamnya yang berwarna hijau toska. Terletak di Jawa Timur, kawah ini merupakan salah satu tempat terbaik untuk melihat fenomena alam yang unik. Pengunjung dapat melakukan pendakian malam untuk menyaksikan api biru yang menyala di kegelapan, serta menikmati pemandangan matahari terbit yang spektakuler dari puncak kawah.",
+        "image": "https://images.pexels.com/photos/27272720/pexels-photo-27272720.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210208/pexels-photo-210208.jpeg",
+            "https://images.pexels.com/photos/210209/pexels-photo-210209.jpeg"
+        ],
+        "trending": false
+    },
+    {
+        "name": "Taman Mini Indonesia Indah",
+        "location": "Jakarta",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "09.00 - 17.00",
+        "harga": "Rp25.000",
+        "deskripsi": "Taman Mini Indonesia Indah adalah taman budaya yang menampilkan miniatur Indonesia dengan berbagai rumah adat, museum, dan atraksi budaya dari seluruh nusantara. Terletak di Jakarta, taman ini menawarkan pengalaman yang mendidik dan menghibur bagi pengunjung yang ingin belajar tentang keragaman budaya Indonesia. Taman Mini juga memiliki taman bermain, kebun binatang, dan area rekreasi lainnya.",
+        "image": "https://images.pexels.com/photos/210210/pexels-photo-210210.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210211/pexels-photo-210211.jpeg",
+            "https://images.pexels.com/photos/210212/pexels-photo-210212.jpeg"
+        ],
+        "trending": false
+    },
+    {
+        "name": "Pantai Sanur",
+        "location": "Bali",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "07.00 - 18.00",
+        "harga": "Gratis",
+        "deskripsi": "Pantai Sanur terkenal dengan matahari terbitnya yang indah dan suasana yang tenang. Terletak di Bali, pantai ini menawarkan pasir putih yang lembut, air laut yang jernih, dan pemandangan yang menakjubkan. Sanur juga memiliki berbagai restoran, kafe, dan toko-toko yang menjadikannya tempat yang ideal untuk bersantai dan menikmati keindahan alam.",
+        "image": "https://images.pexels.com/photos/210213/pexels-photo-210213.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210214/pexels-photo-210214.jpeg",
+            "https://images.pexels.com/photos/210215/pexels-photo-210215.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Taman Nasional Komodo",
+        "location": "Nusa Tenggara Timur",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "08.00 - 17.00",
+        "harga": "Rp150.000",
+        "deskripsi": "Taman Nasional Komodo adalah rumah bagi komodo dan keanekaragaman hayati yang kaya. Terletak di Nusa Tenggara Timur, taman nasional ini mencakup beberapa pulau, termasuk Pulau Komodo dan Pulau Rinca. Pengunjung dapat melakukan trekking untuk melihat komodo di habitat aslinya, snorkeling di perairan yang kaya akan terumbu karang, dan menikmati pemandangan alam yang spektakuler.",
+        "image": "https://images.pexels.com/photos/10392196/pexels-photo-10392196.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210217/pexels-photo-210217.jpeg",
+            "https://images.pexels.com/photos/210218/pexels-photo-210218.jpeg"
+        ],
+        "trending": false
+    },
+    {
+        "name": "Pantai Anyer",
+        "location": "Banten",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "07.00 - 18.00",
+        "harga": "Rp10.000",
+        "deskripsi": "Pantai Anyer adalah pantai yang populer di kalangan wisatawan lokal dan menawarkan pemandangan yang indah serta berbagai aktivitas air. Terletak di Banten, pantai ini memiliki pasir putih yang lembut, ombak yang cocok untuk berselancar, dan fasilitas yang lengkap. Pengunjung dapat menikmati berbagai olahraga air, seperti jet ski, banana boat, dan snorkeling.",
+        "image": "https://images.pexels.com/photos/18784658/pexels-photo-18784658.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210220/pexels-photo-210220.jpeg",
+            "https://images.pexels.com/photos/210221/pexels-photo-210221.jpeg"
+        ],
+        "trending": false
+    },
+    {
+        "name": "Bromo Tengger Semeru",
+        "location": "Jawa Timur",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "24 Jam",
+        "harga": "Rp30.000",
+        "deskripsi": "Taman Nasional Bromo Tengger Semeru adalah taman nasional yang terkenal dengan pemandangan gunung berapi yang spektakuler, termasuk Gunung Bromo dan Gunung Semeru. Terletak di Jawa Timur, taman nasional ini menawarkan trekking, penjelajahan kawah, dan pemandangan mata",
+        "image": "https://images.pexels.com/photos/2291648/pexels-photo-2291648.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210223/pexels-photo-210223.jpeg",
+            "https://images.pexels.com/photos/210224/pexels-photo-210224.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Pantai Tanjung Lesung",
+        "location": "Banten",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "07.00 - 18.00",
+        "harga": "Rp15.000",
+        "deskripsi": "Pantai Tanjung Lesung adalah pantai yang indah dengan pasir putih dan air laut yang jernih. Terletak di Banten, pantai ini menawarkan suasana yang tenang dan berbagai aktivitas air, seperti snorkeling, berlayar, dan memancing. Tanjung Lesung juga memiliki resort dan fasilitas yang lengkap untuk pengunjung yang ingin menghabiskan waktu di tepi pantai.",
+        "image": "https://images.pexels.com/photos/210225/pexels-photo-210225.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210226/pexels-photo-210226.jpeg",
+            "https://images.pexels.com/photos/210227/pexels-photo-210227.jpeg"
+        ],
+        "trending": false
+    },
+    {
+        "name": "Taman Nasional Baluran",
+        "location": "Jawa Timur",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "08.00 - 16.00",
+        "harga": "Rp20.000",
+        "deskripsi": "Taman Nasional Baluran adalah taman nasional yang terkenal dengan savana dan keanekaragaman hayatinya. Terletak di Jawa Timur, taman nasional ini memiliki pemandangan yang unik dengan padang rumput luas, hutan mangrove, dan pantai. Pengunjung dapat melakukan trekking, melihat satwa liar seperti banteng, rusa, dan burung, serta menikmati keindahan alam yang masih alami.",
+        "image": "https://images.pexels.com/photos/210228/pexels-photo-210228.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210229/pexels-photo-210229.jpeg",
+            "https://images.pexels.com/photos/210230/pexels-photo-210230.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Pantai Pangandaran",
+        "location": "Jawa Barat",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "07.00 - 18.00",
+        "harga": "Rp5.000",
+        "deskripsi": "Pantai Pangandaran adalah pantai yang populer di kalangan wisatawan lokal dan menawarkan pemandangan yang indah serta berbagai aktivitas air. Terletak di Jawa Barat, pantai ini memiliki pasir putih yang lembut, ombak yang cocok untuk berselancar, dan fasilitas yang lengkap. Pengunjung dapat menikmati berbagai olahraga air, seperti jet ski, banana boat, dan snorkeling.",
+        "image": "https://images.pexels.com/photos/210231/pexels-photo-210231.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210232/pexels-photo-210232.jpeg",
+            "https://images.pexels.com/photos/210233/pexels-photo-210233.jpeg"
+        ],
+        "trending": false
+    },
+    {
+        "name": "Way Kambas",
+        "location": "Lampung",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "08.00 - 16.00",
+        "harga": "Rp30.000",
+        "deskripsi": "Taman Nasional Way Kambas adalah taman nasional yang terkenal dengan gajah Sumatera dan keanekaragaman hayatinya. Terletak di Lampung, taman nasional ini menawarkan pengalaman melihat gajah liar, trekking di hutan hujan tropis, dan penjelajahan sungai. Way Kambas juga memiliki pusat rehabilitasi gajah yang memungkinkan pengunjung untuk belajar tentang konservasi satwa liar.",
+        "image": "https://images.pexels.com/photos/210234/pexels-photo-210234.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/32901572/pexels-photo-32901572.jpeg",
+            "https://images.pexels.com/photos/210236/pexels-photo-210236.jpeg"
+        ],
+        "trending": true
+    }
+]

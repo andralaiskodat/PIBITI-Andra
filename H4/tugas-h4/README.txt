@@ -1,0 +1,3 @@
+Nama Lengkap			: Fransisko Andrade Laiskodat
+Kategori Proyek yang Dipilih	: Inovasi
+Deskripsi Singkat Proyek	: Destina Web adalah aplikasi web yang membantu pengguna menemukan tempat wisata yang sedang tren di 					  berbagai daerah Indonesia. Aplikasi ini menampilkan daftar destinasi wisata lengkap dengan nama tempat,  				  deskripsi, lokasi Google Maps, jam buka, harga tiket, serta rating dan review dari pengunjung. Dengan 				  tampilan yang modern dan responsif, pengguna dapat dengan mudah mencari destinasi populer sesuai minat 				  mereka	

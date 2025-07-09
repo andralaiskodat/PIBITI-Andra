@@ -1,0 +1,29 @@
+/* animasi horizontal scroll */
+@keyframes scrollGallery {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+.animate-scrollGallery {
+    animation: scrollGallery 5s linear infinite;
+    animation-play-state: paused;
+}
+
+.group-hover\:animate-running:hover {
+    animation-play-state: running;
+}
+
+
+.scrollbar-hide {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
