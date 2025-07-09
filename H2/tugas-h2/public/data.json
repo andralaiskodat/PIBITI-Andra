@@ -115,5 +115,96 @@
             "https://images.pexels.com/photos/1076758/pexels-photo-1076758.jpeg",
             "https://images.pexels.com/photos/1076758/pexels-photo-1076758.jpeg"
         ]
+    },
+    {
+        "name": "Taman Safari Indonesia",
+        "location": "Bogor",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "09.00 - 17.00",
+        "harga": "Rp150.000",
+        "deskripsi": "Taman Safari Indonesia adalah taman safari terbesar di Indonesia...",
+        "image": "https://images.pexels.com/photos/210204/pexels-photo-210204.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210205/pexels-photo-210205.jpeg",
+            "https://images.pexels.com/photos/210206/pexels-photo-210206.jpeg"
+        ]
+    },
+    {
+        "name": "Kawah Ijen",
+        "location": "Jawa Timur",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "24 Jam",
+        "harga": "Rp20.000",
+        "deskripsi": "Kawah Ijen terkenal dengan api biru dan danau asamnya...",
+        "image": "https://images.pexels.com/photos/210207/pexels-photo-210207.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210208/pexels-photo-210208.jpeg",
+            "https://images.pexels.com/photos/210209/pexels-photo-210209.jpeg"
+        ]
+    },
+    {
+        "name": "Taman Mini Indonesia Indah",
+        "location": "Jakarta",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "09.00 - 17.00",
+        "harga": "Rp25.000",
+        "deskripsi": "Taman Mini Indonesia Indah adalah taman budaya yang menampilkan miniatur Indonesia...",
+        "image": "https://images.pexels.com/photos/210210/pexels-photo-210210.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210211/pexels-photo-210211.jpeg",
+            "https://images.pexels.com/photos/210212/pexels-photo-210212.jpeg"
+        ]
+    },
+    {
+        "name": "Pantai Sanur",
+        "location": "Bali",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "07.00 - 18.00",
+        "harga": "Gratis",
+        "deskripsi": "Pantai Sanur terkenal dengan matahari terbitnya yang indah...",
+        "image": "https://images.pexels.com/photos/210213/pexels-photo-210213.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210214/pexels-photo-210214.jpeg",
+            "https://images.pexels.com/photos/210215/pexels-photo-210215.jpeg"
+        ]
+    },
+    {
+        "name": "Taman Nasional Komodo",
+        "location": "Nusa Tenggara Timur",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "08.00 - 17.00",
+        "harga": "Rp150.000",
+        "deskripsi": "Taman Nasional Komodo adalah rumah bagi komodo dan keanekaragaman hayati yang kaya...",
+        "image": "https://images.pexels.com/photos/210216/pexels-photo-210216.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210217/pexels-photo-210217.jpeg",
+            "https://images.pexels.com/photos/210218/pexels-photo-210218.jpeg"
+        ]
+    },
+    {
+        "name": "Pantai Anyer",
+        "location": "Banten",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "07.00 - 18.00",
+        "harga": "Rp10.000",
+        "deskripsi": "Pantai Anyer adalah pantai yang populer di kalangan wisatawan lokal...",
+        "image": "https://images.pexels.com/photos/210219/pexels-photo-210219.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210220/pexels-photo-210220.jpeg",
+            "https://images.pexels.com/photos/210221/pexels-photo-210221.jpeg"
+        ]
+    },
+    {
+        "name": "Taman Nasional Bromo Tengger Semeru",
+        "location": "Jawa Timur",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "24 Jam",
+        "harga": "Rp30.000",
+        "deskripsi": "Taman Nasional Bromo Tengger Semeru adalah taman nasional yang terkenal dengan pemandangan gunung berapi...",
+        "image": "https://images.pexels.com/photos/210222/pexels-photo-210222.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210223/pexels-photo-210223.jpeg",
+            "https://images.pexels.com/photos/210224/pexels-photo-210224.jpeg"
+        ]
     }
 ]

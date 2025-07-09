@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Pantai Kuta",
+        "location": "Bali",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "07.00 - 18.00",
+        "harga": "Gratis",
+        "deskripsi": "Pantai Kuta terkenal dengan pasir putih...",
+        "image": "https://images.pexels.com/photos/5345067/pexels-photo-5345067.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/28492149/pexels-photo-28492149.jpeg",
+            "https://images.pexels.com/photos/13583582/pexels-photo-13583582.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Gunung Bromo",
+        "location": "Jawa Timur",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "24 Jam",
+        "harga": "Rp30.000",
+        "deskripsi": "Gunung Bromo adalah gunung berapi aktif...",
+        "image": "https://images.pexels.com/photos/2609952/pexels-photo-2609952.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/3617337/pexels-photo-3617337.jpeg",
+            "https://images.pexels.com/photos/1076758/pexels-photo-1076758.jpeg"
+        ],
+        "trending": false
+    },
+    {
+        "name": "Candi Borobudur",
+        "location": "Jawa Tengah",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "06.00 - 17.00",
+        "harga": "Rp50.000",
+        "deskripsi": "Candi Borobudur adalah candi Buddha terbesar...",
+        "image": "https://images.pexels.com/photos/4090091/pexels-photo-4090091.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/9754748/pexels-photo-9754748.jpeg",
+            "https://images.pexels.com/photos/6476719/pexels-photo-6476719.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Danau Toba",
+        "location": "Sumatera",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "24 Jam",
+        "harga": "Gratis",
+        "deskripsi": "Danau Toba adalah danau vulkanik terbesar di dunia...",
+        "image": "https://images.pexels.com/photos/210189/pexels-photo-210189.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210190/pexels-photo-210190.jpeg",
+            "https://images.pexels.com/photos/210191/pexels-photo-210191.jpeg"
+        ],
+        "trending": false
+    },
+    {
+        "name": "Pulau Komodo",
+        "location": "Nusa Tenggara Timur",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "08.00 - 17.00",
+        "harga": "Rp150.000",
+        "deskripsi": "Pulau Komodo terkenal dengan komodo, kadal terbesar di dunia...",
+        "image": "https://images.pexels.com/photos/27221044/pexels-photo-27221044.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210193/pexels-photo-210193.jpeg",
+            "https://images.pexels.com/photos/210194/pexels-photo-210194.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Pantai Pink",
+        "location": "Nusa Tenggara Barat",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "07.00 - 18.00",
+        "harga": "Rp20.000",
+        "deskripsi": "Pantai Pink terkenal dengan pasirnya yang berwarna pink...",
+        "image": "https://images.pexels.com/photos/210195/pexels-photo-210195.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210196/pexels-photo-210196.jpeg",
+            "https://images.pexels.com/photos/210197/pexels-photo-210197.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Taman Nasional Ujung Kulon",
+        "location": "Banten",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "08.00 - 16.00",
+        "harga": "Rp25.000",
+        "deskripsi": "Taman Nasional Ujung Kulon adalah rumah bagi badak Jawa...",
+        "image": "https://images.pexels.com/photos/210198/pexels-photo-210198.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210199/pexels-photo-210199.jpeg",
+            "https://images.pexels.com/photos/210200/pexels-photo-210200.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Pantai Parangtritis",
+        "location": "Yogyakarta",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "24 Jam",
+        "harga": "Gratis",
+        "deskripsi": "Pantai Parangtritis terkenal dengan ombaknya yang besar...",
+        "image": "https://images.pexels.com/photos/210201/pexels-photo-210201.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210202/pexels-photo-210202.jpeg",
+            "https://images.pexels.com/photos/210203/pexels-photo-210203.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Raja Ampat",
+        "location": "Papua Barat",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "09.00 - 17.00",
+        "harga": "Rp300.000",
+        "deskripsi": "Raja Ampat adalah surga bagi penyelam dan pecinta alam bawah laut...",
+        "image": "https://images.pexels.com/photos/18080802/pexels-photo-18080802.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/1076758/pexels-photo-1076758.jpeg",
+            "https://images.pexels.com/photos/1076758/pexels-photo-1076758.jpeg"
+        ],
+        "trending": false
+    },
+    {
+        "name": "Taman Safari Indonesia",
+        "location": "Bogor",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "09.00 - 17.00",
+        "harga": "Rp150.000",
+        "deskripsi": "Taman Safari Indonesia adalah taman safari terbesar di Indonesia...",
+        "image": "https://images.pexels.com/photos/210204/pexels-photo-210204.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210205/pexels-photo-210205.jpeg",
+            "https://images.pexels.com/photos/210206/pexels-photo-210206.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Kawah Ijen",
+        "location": "Jawa Timur",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "24 Jam",
+        "harga": "Rp20.000",
+        "deskripsi": "Kawah Ijen terkenal dengan api biru dan danau asamnya...",
+        "image": "https://images.pexels.com/photos/210207/pexels-photo-210207.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210208/pexels-photo-210208.jpeg",
+            "https://images.pexels.com/photos/210209/pexels-photo-210209.jpeg"
+        ],
+        "trending": false
+    },
+    {
+        "name": "Taman Mini Indonesia Indah",
+        "location": "Jakarta",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "09.00 - 17.00",
+        "harga": "Rp25.000",
+        "deskripsi": "Taman Mini Indonesia Indah adalah taman budaya yang menampilkan miniatur Indonesia...",
+        "image": "https://images.pexels.com/photos/210210/pexels-photo-210210.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210211/pexels-photo-210211.jpeg",
+            "https://images.pexels.com/photos/210212/pexels-photo-210212.jpeg"
+        ],
+        "trending": false
+    },
+    {
+        "name": "Pantai Sanur",
+        "location": "Bali",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "07.00 - 18.00",
+        "harga": "Gratis",
+        "deskripsi": "Pantai Sanur terkenal dengan matahari terbitnya yang indah...",
+        "image": "https://images.pexels.com/photos/210213/pexels-photo-210213.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210214/pexels-photo-210214.jpeg",
+            "https://images.pexels.com/photos/210215/pexels-photo-210215.jpeg"
+        ],
+        "trending": true
+    },
+    {
+        "name": "Taman Nasional Komodo",
+        "location": "Nusa Tenggara Timur",
+        "rating": "⭐⭐⭐⭐⭐",
+        "jam": "08.00 - 17.00",
+        "harga": "Rp150.000",
+        "deskripsi": "Taman Nasional Komodo adalah rumah bagi komodo dan keanekaragaman hayati yang kaya...",
+        "image": "https://images.pexels.com/photos/210216/pexels-photo-210216.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210217/pexels-photo-210217.jpeg",
+            "https://images.pexels.com/photos/210218/pexels-photo-210218.jpeg"
+        ],
+        "trending": false
+    },
+    {
+        "name": "Pantai Anyer",
+        "location": "Banten",
+        "rating": "⭐⭐⭐⭐",
+        "jam": "07.00 - 18.00",
+        "harga": "Rp10.000",
+        "deskripsi": "Pantai Anyer adalah pantai yang populer di kalangan wisatawan lokal...",
+        "image": "https://images.pexels.com/photos/210219/pexels-photo-210219.jpeg",
+        "gallery": [
+            "https://images.pexels.com/photos/210220/pexels-photo-210220.jpeg",
+            "https://images.pexels.com/photos/210221/pexels-photo-210221.jpeg"
+        ],
+        "trending": false
+    }
+]

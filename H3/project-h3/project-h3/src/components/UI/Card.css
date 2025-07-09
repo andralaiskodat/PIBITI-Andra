@@ -1,0 +1,18 @@
+.card-container {
+    background-color: rgb(105, 91, 91);
+    padding: 1.5rem;
+    /* setara dengan Tailwind p-6 */
+    border-radius: 0.75rem;
+    /* rounded-xl */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    /* shadow-md */
+    border: 1px solid #f1f5f9;
+    /* border-slate-100 */
+}
+
+/* sm:p-8 => saat layar >= 640px */
+@media (min-width: 640px) {
+    .card-container {
+        padding: 2rem;
+    }
+}
